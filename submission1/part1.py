@@ -15,12 +15,12 @@ def main():
 
     # Using pandas
     d=[]
-    for l in open(filepath+"/tip.json").readlines():
+    for l in open(filepath+"/tip.json", encoding="utf8").readlines():
         d.append(json.loads(l))
     df = pd.DataFrame.from_records(d)
 
     business=[]
-    for l in open(filepath+"/business.json").readlines():
+    for l in open(filepath+"/business.json", encoding="utf8").readlines():
         business.append(json.loads(l))
     df_business = pd.DataFrame.from_records(business)
 
@@ -29,8 +29,7 @@ def main():
 
     # Q2: How many reviews have the maximum length of text among all reviews?
     # print(yelp_dataset[3851]) # example of review with 500 characters
-    # print('Q2:', df['text'].apply(len).value_counts().loc[5000])
-    print(df.loc[lambda df: df['text'].apply(len) == 5000].count().loc['user_id']) # another way to do it
+    print('Q2:',df.loc[lambda df: df['text'].apply(len) == df['text'].apply(len).max()].count().loc['user_id']) # another way to do it
 
     # Q3: We say that a user is "outstanding" if it makes the number of reviews six standard-derivations more than an 
     # average user. (That is, #reviews from a user >= average #reviews of all users + 6*std of #reviews of all users). 
