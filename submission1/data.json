@@ -1,0 +1,459 @@
+{
+    "data": [
+        {
+            "asciiname": "Phoenix",
+            "pop2019": 1711356,
+            "location": "https://www.google.com/maps/?q=33.572154,-112.090132"
+        },
+        {
+            "asciiname": "Tucson",
+            "pop2019": 537501,
+            "location": "https://www.google.com/maps/?q=32.153036,-110.870773"
+        },
+        {
+            "asciiname": "Mesa",
+            "pop2019": 503619,
+            "location": "https://www.google.com/maps/?q=33.401926,-111.717379"
+        },
+        {
+            "asciiname": "Scottsdale",
+            "pop2019": 266961,
+            "location": "https://www.google.com/maps/?q=33.684347,-111.86112"
+        },
+        {
+            "asciiname": "Chandler",
+            "pop2019": 258421,
+            "location": "https://www.google.com/maps/?q=33.282863,-111.854922"
+        },
+        {
+            "asciiname": "Glendale",
+            "pop2019": 253956,
+            "location": "https://www.google.com/maps/?q=33.525759,-112.41436"
+        },
+        {
+            "asciiname": "Gilbert",
+            "pop2019": 251335,
+            "location": "https://www.google.com/maps/?q=33.310345,-111.743121"
+        },
+        {
+            "asciiname": "Tempe",
+            "pop2019": 196133,
+            "location": "https://www.google.com/maps/?q=33.388414,-111.931782"
+        },
+        {
+            "asciiname": "Peoria",
+            "pop2019": 175387,
+            "location": "https://www.google.com/maps/?q=33.786196,-112.308015"
+        },
+        {
+            "asciiname": "Surprise",
+            "pop2019": 140237,
+            "location": "https://www.google.com/maps/?q=33.670612,-112.452674"
+        },
+        {
+            "asciiname": "Yuma",
+            "pop2019": 98473,
+            "location": "https://www.google.com/maps/?q=32.695543,-114.684838"
+        },
+        {
+            "asciiname": "Avondale",
+            "pop2019": 86358,
+            "location": "https://www.google.com/maps/?q=33.42038,-112.290801"
+        },
+        {
+            "asciiname": "Goodyear",
+            "pop2019": 84395,
+            "location": "https://www.google.com/maps/?q=33.254031,-112.366472"
+        },
+        {
+            "asciiname": "Flagstaff",
+            "pop2019": 75572,
+            "location": "https://www.google.com/maps/?q=35.185212,-111.620698"
+        },
+        {
+            "asciiname": "Buckeye",
+            "pop2019": 73593,
+            "location": "https://www.google.com/maps/?q=33.432902,-112.64818"
+        },
+        {
+            "asciiname": "Casa Grande",
+            "pop2019": 59688,
+            "location": "https://www.google.com/maps/?q=32.906985,-111.762288"
+        },
+        {
+            "asciiname": "Lake Havasu City",
+            "pop2019": 55099,
+            "location": "https://www.google.com/maps/?q=34.500134,-114.312245"
+        },
+        {
+            "asciiname": "Maricopa",
+            "pop2019": 49279,
+            "location": "https://www.google.com/maps/?q=33.041848,-111.99903"
+        },
+        {
+            "asciiname": "Marana",
+            "pop2019": 48046,
+            "location": "https://www.google.com/maps/?q=32.46469,-111.14055"
+        },
+        {
+            "asciiname": "Prescott Valley",
+            "pop2019": 46240,
+            "location": "https://www.google.com/maps/?q=34.598281,-112.317832"
+        },
+        {
+            "asciiname": "Prescott",
+            "pop2019": 45243,
+            "location": "https://www.google.com/maps/?q=34.585842,-112.446241"
+        },
+        {
+            "asciiname": "Oro Valley",
+            "pop2019": 45017,
+            "location": "https://www.google.com/maps/?q=32.422094,-110.976235"
+        },
+        {
+            "asciiname": "Apache Junction",
+            "pop2019": 43764,
+            "location": "https://www.google.com/maps/?q=33.398314,-111.535346"
+        },
+        {
+            "asciiname": "Queen Creek",
+            "pop2019": 43624,
+            "location": "https://www.google.com/maps/?q=33.24083,-111.642876"
+        },
+        {
+            "asciiname": "Sierra Vista",
+            "pop2019": 42644,
+            "location": "https://www.google.com/maps/?q=31.56541,-110.314508"
+        },
+        {
+            "asciiname": "Bullhead City",
+            "pop2019": 40741,
+            "location": "https://www.google.com/maps/?q=35.127368,-114.555965"
+        },
+        {
+            "asciiname": "El Mirage",
+            "pop2019": 36414,
+            "location": "https://www.google.com/maps/?q=33.590224,-112.327102"
+        },
+        {
+            "asciiname": "San Luis",
+            "pop2019": 33888,
+            "location": "https://www.google.com/maps/?q=32.486434,-114.724142"
+        },
+        {
+            "asciiname": "Sahuarita",
+            "pop2019": 30486,
+            "location": "https://www.google.com/maps/?q=31.932739,-110.96536"
+        },
+        {
+            "asciiname": "Kingman",
+            "pop2019": 29794,
+            "location": "https://www.google.com/maps/?q=35.216992,-114.01053"
+        },
+        {
+            "asciiname": "Fountain Hills",
+            "pop2019": 25316,
+            "location": "https://www.google.com/maps/?q=33.607799,-111.738398"
+        },
+        {
+            "asciiname": "Florence",
+            "pop2019": 23706,
+            "location": "https://www.google.com/maps/?q=33.069367,-111.413992"
+        },
+        {
+            "asciiname": "Nogales",
+            "pop2019": 19648,
+            "location": "https://www.google.com/maps/?q=31.362463,-110.933538"
+        },
+        {
+            "asciiname": "Eloy",
+            "pop2019": 17334,
+            "location": "https://www.google.com/maps/?q=32.74127,-111.594042"
+        },
+        {
+            "asciiname": "Douglas",
+            "pop2019": 16337,
+            "location": "https://www.google.com/maps/?q=31.399274,-109.541292"
+        },
+        {
+            "asciiname": "Payson",
+            "pop2019": 15986,
+            "location": "https://www.google.com/maps/?q=34.243893,-111.31884"
+        },
+        {
+            "asciiname": "Paradise Valley",
+            "pop2019": 15108,
+            "location": "https://www.google.com/maps/?q=33.552157,-111.96133"
+        },
+        {
+            "asciiname": "Somerton",
+            "pop2019": 14991,
+            "location": "https://www.google.com/maps/?q=32.60204,-114.695775"
+        },
+        {
+            "asciiname": "Coolidge",
+            "pop2019": 13452,
+            "location": "https://www.google.com/maps/?q=32.93362,-111.523582"
+        },
+        {
+            "asciiname": "Cottonwood",
+            "pop2019": 12869,
+            "location": "https://www.google.com/maps/?q=34.719414,-112.001409"
+        },
+        {
+            "asciiname": "Chino Valley",
+            "pop2019": 11745,
+            "location": "https://www.google.com/maps/?q=34.739884,-112.406064"
+        },
+        {
+            "asciiname": "Show Low",
+            "pop2019": 11675,
+            "location": "https://www.google.com/maps/?q=34.265109,-110.0383"
+        },
+        {
+            "asciiname": "Camp Verde",
+            "pop2019": 11478,
+            "location": "https://www.google.com/maps/?q=34.569405,-111.857014"
+        },
+        {
+            "asciiname": "Sedona",
+            "pop2019": 10679,
+            "location": "https://www.google.com/maps/?q=34.857372,-111.795285"
+        },
+        {
+            "asciiname": "Winslow",
+            "pop2019": 10231,
+            "location": "https://www.google.com/maps/?q=35.025362,-110.710378"
+        },
+        {
+            "asciiname": "Safford",
+            "pop2019": 9463,
+            "location": "https://www.google.com/maps/?q=32.832106,-109.701233"
+        },
+        {
+            "asciiname": "Page",
+            "pop2019": 7803,
+            "location": "https://www.google.com/maps/?q=36.941815,-111.513283"
+        },
+        {
+            "asciiname": "Wickenburg",
+            "pop2019": 7757,
+            "location": "https://www.google.com/maps/?q=33.994799,-112.758908"
+        },
+        {
+            "asciiname": "Globe",
+            "pop2019": 7460,
+            "location": "https://www.google.com/maps/?q=33.39408,-110.738557"
+        },
+        {
+            "asciiname": "Tolleson",
+            "pop2019": 7415,
+            "location": "https://www.google.com/maps/?q=33.448389,-112.256152"
+        },
+        {
+            "asciiname": "Youngtown",
+            "pop2019": 6951,
+            "location": "https://www.google.com/maps/?q=33.584969,-112.304916"
+        },
+        {
+            "asciiname": "Guadalupe",
+            "pop2019": 6573,
+            "location": "https://www.google.com/maps/?q=33.366451,-111.963178"
+        },
+        {
+            "asciiname": "Litchfield Park",
+            "pop2019": 6252,
+            "location": "https://www.google.com/maps/?q=33.501761,-112.35947"
+        },
+        {
+            "asciiname": "Snowflake",
+            "pop2019": 6046,
+            "location": "https://www.google.com/maps/?q=34.521459,-110.091182"
+        },
+        {
+            "asciiname": "South Tucson",
+            "pop2019": 5687,
+            "location": "https://www.google.com/maps/?q=32.195474,-110.969154"
+        },
+        {
+            "asciiname": "Cave Creek",
+            "pop2019": 5668,
+            "location": "https://www.google.com/maps/?q=33.836219,-111.982084"
+        },
+        {
+            "asciiname": "Bisbee",
+            "pop2019": 5272,
+            "location": "https://www.google.com/maps/?q=31.398036,-109.931834"
+        },
+        {
+            "asciiname": "Eagar",
+            "pop2019": 5258,
+            "location": "https://www.google.com/maps/?q=34.104946,-109.294863"
+        },
+        {
+            "asciiname": "Holbrook",
+            "pop2019": 5239,
+            "location": "https://www.google.com/maps/?q=34.904624,-110.16721"
+        },
+        {
+            "asciiname": "Thatcher",
+            "pop2019": 5174,
+            "location": "https://www.google.com/maps/?q=32.849227,-109.742724"
+        },
+        {
+            "asciiname": "Colorado City",
+            "pop2019": 4848,
+            "location": "https://www.google.com/maps/?q=36.970109,-112.985312"
+        },
+        {
+            "asciiname": "Benson",
+            "pop2019": 4768,
+            "location": "https://www.google.com/maps/?q=31.914497,-110.328552"
+        },
+        {
+            "asciiname": "Pinetop-Lakeside",
+            "pop2019": 4552,
+            "location": "https://www.google.com/maps/?q=34.148424,-109.965998"
+        },
+        {
+            "asciiname": "Clarkdale",
+            "pop2019": 4476,
+            "location": "https://www.google.com/maps/?q=34.748201,-112.058591"
+        },
+        {
+            "asciiname": "Taylor",
+            "pop2019": 4406,
+            "location": "https://www.google.com/maps/?q=34.442748,-110.098534"
+        },
+        {
+            "asciiname": "Dewey-Humboldt",
+            "pop2019": 4226,
+            "location": "https://www.google.com/maps/?q=34.517438,-112.249771"
+        },
+        {
+            "asciiname": "Carefree",
+            "pop2019": 3928,
+            "location": "https://www.google.com/maps/?q=33.823195,-111.913378"
+        },
+        {
+            "asciiname": "Clifton",
+            "pop2019": 3890,
+            "location": "https://www.google.com/maps/?q=33.029533,-109.284005"
+        },
+        {
+            "asciiname": "St. Johns",
+            "pop2019": 3796,
+            "location": "https://www.google.com/maps/?q=34.500368,-109.37691"
+        },
+        {
+            "asciiname": "Quartzsite",
+            "pop2019": 3764,
+            "location": "https://www.google.com/maps/?q=33.667507,-114.217041"
+        },
+        {
+            "asciiname": "Willcox",
+            "pop2019": 3352,
+            "location": "https://www.google.com/maps/?q=32.251804,-109.835698"
+        },
+        {
+            "asciiname": "Williams",
+            "pop2019": 3312,
+            "location": "https://www.google.com/maps/?q=35.24664,-112.183296"
+        },
+        {
+            "asciiname": "Superior",
+            "pop2019": 3227,
+            "location": "https://www.google.com/maps/?q=33.285087,-111.110919"
+        },
+        {
+            "asciiname": "Wellton",
+            "pop2019": 3061,
+            "location": "https://www.google.com/maps/?q=32.639942,-114.214056"
+        },
+        {
+            "asciiname": "Parker",
+            "pop2019": 2996,
+            "location": "https://www.google.com/maps/?q=34.033963,-114.228159"
+        },
+        {
+            "asciiname": "Pima",
+            "pop2019": 2469,
+            "location": "https://www.google.com/maps/?q=32.891886,-109.844268"
+        },
+        {
+            "asciiname": "Star Valley",
+            "pop2019": 2329,
+            "location": "https://www.google.com/maps/?q=34.254685,-111.220709"
+        },
+        {
+            "asciiname": "Kearny",
+            "pop2019": 2231,
+            "location": "https://www.google.com/maps/?q=33.056392,-110.907091"
+        },
+        {
+            "asciiname": "Gila Bend",
+            "pop2019": 2131,
+            "location": "https://www.google.com/maps/?q=32.966242,-112.715465"
+        },
+        {
+            "asciiname": "Springerville",
+            "pop2019": 2109,
+            "location": "https://www.google.com/maps/?q=34.171921,-109.306892"
+        },
+        {
+            "asciiname": "Miami",
+            "pop2019": 1796,
+            "location": "https://www.google.com/maps/?q=33.395008,-110.872236"
+        },
+        {
+            "asciiname": "Huachuca City",
+            "pop2019": 1696,
+            "location": "https://www.google.com/maps/?q=31.630804,-110.342193"
+        },
+        {
+            "asciiname": "Mammoth",
+            "pop2019": 1633,
+            "location": "https://www.google.com/maps/?q=32.685178,-110.729269"
+        },
+        {
+            "asciiname": "Fredonia",
+            "pop2019": 1335,
+            "location": "https://www.google.com/maps/?q=36.963362,-112.519926"
+        },
+        {
+            "asciiname": "Tombstone",
+            "pop2019": 1261,
+            "location": "https://www.google.com/maps/?q=31.720407,-110.076304"
+        },
+        {
+            "asciiname": "Patagonia",
+            "pop2019": 857,
+            "location": "https://www.google.com/maps/?q=31.544744,-110.745463"
+        },
+        {
+            "asciiname": "Duncan",
+            "pop2019": 816,
+            "location": "https://www.google.com/maps/?q=32.749981,-109.0884"
+        },
+        {
+            "asciiname": "Tusayan",
+            "pop2019": 609,
+            "location": "https://www.google.com/maps/?q=35.954964,-112.120196"
+        },
+        {
+            "asciiname": "Hayden",
+            "pop2019": 602,
+            "location": "https://www.google.com/maps/?q=32.994887,-110.779872"
+        },
+        {
+            "asciiname": "Jerome",
+            "pop2019": 464,
+            "location": "https://www.google.com/maps/?q=34.74662,-112.10726"
+        },
+        {
+            "asciiname": "Winkelman",
+            "pop2019": 352,
+            "location": "https://www.google.com/maps/?q=32.98168,-110.761684"
+        }
+    ]
+}
